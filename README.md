@@ -1,4 +1,4 @@
-### Hi, I am Keya Panja 👋
+### Hi, I'm Keya Panja 👋
 
 <!--
 **keya2000/keya2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
